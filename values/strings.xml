@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">COVID-19 TRACKER</string>
+    <string name="cases">Total Confirmed</string>
+    <string name="death">Total Deaths</string>
+    <string name="recovered">Total Recovered</string>
+    <string name="dummyText">Dummy</string>
+    <string name="dummyNum">0000</string>
+    <string name="global_cases">Global Cases</string>
+</resources>

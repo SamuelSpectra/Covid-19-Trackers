@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#222222</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorPrimaryDark">#002d72</color>
+    <color name="colorAccent">#03DAC5</color>
+    
+    <color name="colorCases">#e60000</color>
+    <color name="colorDeath">#999999</color>
+    <color name="colorRecover">#7bb974</color>
+    <color name="colorBackgroud">#DDDDDD</color>
+    <color name="colorBtn">#3C8DAD</color>
+
+    <color name="background">#e5e5e5</color>
+</resources>
